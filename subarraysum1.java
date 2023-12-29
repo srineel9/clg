@@ -7,7 +7,7 @@ public class subarraysum1{
  
         for(int i=0;i<numbers.length;i++) {
             int start = i;
-            for(int j=i;j<numbers.length;j++)
+            for(int j=i;j<numbers.lengtha;j++)
             {
                 int end = j;
                 int currsum=0;
